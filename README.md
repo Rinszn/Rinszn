@@ -1,7 +1,5 @@
 # 💫 About Me:
-<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 15px; line-height: 1.6;">
-
-💫 <strong>About Me</strong><br>
+<div style="font-family: 'Courier New', monospace; font-size: 15px;">
 Full stack web developer passionate about building smooth, efficient, and scalable applications.<br>
 I’m currently sharpening my skills in React, React Native, Node.js, Express,<br>
 and deploying with Vercel + Supabase.<br>
